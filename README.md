@@ -1,4 +1,4 @@
-<h1 align="center">Hey there! 👋🏻, I'm Alok :)</h1>
+<h1 align="center">Hey there!👋🏻 I'm Alok :)</h1>
 <h3 align="center">A student currently learning things that excite me</h3>
 
 - 🌱 I’m currently learning **Complete Python along with Web Development**
