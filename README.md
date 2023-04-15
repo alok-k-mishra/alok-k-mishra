@@ -16,7 +16,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=notkilleration&" alt="notkilleration" /></p>
 
-<p align="left"> <a href="https://twitter.com/its_killeration" target="blank"><img src="https://img.shields.io/twitter/follow/its_killeration?logo=twitter&style=for-the-badge" alt="its_killeration" /></a> </p>
+<!-- <p align="left"> <a href="https://twitter.com/its_killeration" target="blank"><img src="https://img.shields.io/twitter/follow/its_killeration?logo=twitter&style=for-the-badge" alt="its_killeration" /></a> </p> -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
