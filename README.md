@@ -1,23 +1,22 @@
 <h1 align="center">Hey there!👋🏻 I'm Alok :)</h1>
 <h3 align="center">A student currently learning things that excite me</h3>
 
-- 🌱 I’m currently learning **Python along with Web Development**
-
-- ⚡ **I think I'm funny**
-
+# 💫 About Me:
+🤝 I’m looking for help with Internships<br>🌱 I’m currently learning Web Development<br>💬 Ask me about my favorite icecream<br>⚡ Fun fact: I think I'm Funny xd
 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alok-k-mishra) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/notkilleration) 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=notkilleration&show_icons=true&locale=en&layout=compact" alt="notkilleration" /></p>
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=NotKilleration&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=NotKilleration&theme=highcontrast&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=NotKilleration&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-<br><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=notkilleration&" alt="notkilleration" /></br>
+### 😂 Random Dev Meme
+<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/its_killeration" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="its_killeration" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/alok-k-mishra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alok-k-mishra" height="30" width="40" /></a>
-<a href="https://instagram.com/_alookatthat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="killerationmusic" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/alokkumarmishra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="alokkumarmishra" height="30" width="40" /></a>
-</p>
+---
+[![](https://visitcount.itsvg.in/api?id=NotKilleration&icon=0&color=7)](https://visitcount.itsvg.in)
