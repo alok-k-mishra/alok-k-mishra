@@ -2,7 +2,7 @@
 <h3 align="center">A student currently learning things that excite me</h3>
 
 # 💫 About Me:
-🤝 I’m looking for help with Internships<br>🌱 I’m currently learning Web Development<br>💬 Ask me about my favorite icecream<br>⚡ Fun fact: I think I'm Funny xd
+🤝 I’m looking for help with Internships<br>🌱 I’m currently learning Web Development<br>💬 Ask me about my favorite Milkshake<br>⚡ Fun fact: I think I'm Funny xd
 
 
 ## 🌐 Socials:
