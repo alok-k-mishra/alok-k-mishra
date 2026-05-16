@@ -1,20 +1,81 @@
-<h1 align="center">Hey there!👋🏻 I'm Alok :)</h1>
-<h3 align="center">A student currently learning things that excite me</h3>
+<h1 align="center">Hi, I'm Alok 👋</h1>
 
-# 💫 About Me:
-🤝 I’m looking for Internships<br>🌱 I’m currently learning Web Development<br>💬 Ask me about my favorite Milkshake<br>⚡ Fun fact: I think I'm Funny xd
+<p align="center">
+  CS student · building things on the web · open to internships
+</p>
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alok-k-mishra) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/simply_alok) 
-
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
-# 📊 GitHub Stats:
-![alok-k-mishra's Stats](https://github-readme-stats.vercel.app/api?username=alok-k-mishra&theme=highcontrast&show_icons=true&hide_border=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=alok-k-mishra&theme=highcontrast&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=alok-k-mishra&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+<p align="center">
+  <a href="https://linkedin.com/in/alok-k-mishra">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://x.com/simply_alok">
+    <img src="https://img.shields.io/badge/X-%23000000.svg?style=flat&logo=x&logoColor=white" />
+  </a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=NotKilleration&icon=0&color=7)](https://visitcount.itsvg.in)
+
+## About
+
+I'm a student who likes to build things — mostly on the web. I enjoy figuring out how stuff works, writing code that solves real problems, and occasionally making something that looks nice too.
+
+- 🔍 Actively looking for **software/web development internships**
+- 💬 Always happy to talk code, projects, or recommend a good milkshake
+- ⚡ I genuinely think I'm funny (the jury's still out)
+
+---
+
+## Tech Stack
+
+**Languages**
+
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+
+**Frameworks & Tools**
+
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=flat-square&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat-square&logo=github&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+
+---
+
+## Currently Learning
+
+A rough roadmap of where my head is at right now:
+
+| Topic | Status |
+|---|---|
+| React — hooks, state management | 🔄 In progress |
+| Node.js + REST APIs | 🔄 In progress |
+| Databases (SQL → exploring NoSQL) | 🔜 Up next |
+| TypeScript | 🔜 Up next |
+| DSA & problem solving | 📌 Ongoing |
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=alok-k-mishra&theme=default&show_icons=true&hide_border=true&count_private=true" height="150" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alok-k-mishra&theme=default&hide_border=true&include_all_commits=true&count_private=false&layout=compact" height="150" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alok-k-mishra&theme=default&hide_border=true" />
+</p>
+
+---
+
+<p align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=NotKilleration&icon=0&color=0" />
+  </a>
+</p>
