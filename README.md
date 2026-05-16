@@ -62,6 +62,6 @@ A rough roadmap of where my head is at right now:
 
 <p align="center">
   <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=NotKilleration&icon=0&color=0" />
+    <img src="![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Falok-k-mishra%2F&countColor=%23ff8a65)" />
   </a>
 </p>
