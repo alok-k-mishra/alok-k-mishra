@@ -60,20 +60,6 @@ A rough roadmap of where my head is at right now:
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alok-k-mishra&theme=default&show_icons=true&hide_border=true&count_private=true" height="150" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alok-k-mishra&theme=default&hide_border=true&include_all_commits=true&count_private=false&layout=compact" height="150" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alok-k-mishra&theme=default&hide_border=true" />
-</p>
-
----
-
 <p align="center">
   <a href="https://visitcount.itsvg.in">
     <img src="https://visitcount.itsvg.in/api?id=NotKilleration&icon=0&color=0" />
