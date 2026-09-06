@@ -4,12 +4,6 @@
   CS student building web applications and data-driven projects.
 </p>
 
-<p align="center">
-  <a href="https://alok-k-mishra.github.io">Portfolio</a> ·
-  <a href="https://linkedin.com/in/alok-k-mishra">LinkedIn</a> ·
-  <a href="https://x.com/simply_alok">X</a>
-</p>
-
 ---
 
 ### About
