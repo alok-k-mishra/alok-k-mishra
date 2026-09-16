@@ -37,10 +37,8 @@
 ### Languages
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=323330" height="20" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" height="20" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" height="20" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white" height="20" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white" height="20" />
 </p>
 
 ### Frontend
@@ -70,8 +68,6 @@
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" height="20" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" height="20" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white" height="20" />
-  <img src="https://img.shields.io/badge/Windows%2011-0078D4?style=flat&logo=windows11&logoColor=white" height="20" />
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white" height="20" />
   <img src="https://img.shields.io/badge/WSL-0078D4?style=flat&logo=windows&logoColor=white" height="20" />
 </p>
@@ -81,20 +77,19 @@
 ## 📊 Featured Projects
 
 ### Business Metrics Analysis
-Analyzed D2C retail data including sales funnels, conversion rates, inventory turnover, and marketing ROI using Excel, SQL, and Python. [View Project](https://github.com/alok-k-mishra/business-metrics-analysis)
+Analyzed D2C retail data including sales funnels, conversion rates, inventory turnover, and marketing ROI using Excel, SQL, and Python.
 
 ### Airbnb Data Analysis
 Explored Airbnb listing data to identify pricing trends, occupancy patterns, and revenue optimization strategies. Built dashboards to visualize market insights and support data-driven hosting decisions.
 
 ### React & Chromium Extensions
-Built browser extensions and React-based web applications for workflow digitization and productivity enhancement.
+Built browser extensions and React-based web applications to digitize workflows and boost productivity.
 
 ---
 
 ## 📚 Currently Learning
 
 - **REST APIs & Backend Development** (Node.js, Express, PostgreSQL)
-- **TypeScript** for type-safe full-stack development
 - **Docker & WSL** for containerized development environments
 - **Local LLMs** (Ollama, Open WebUI) for AI experimentation
 
