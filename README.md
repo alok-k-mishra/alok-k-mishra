@@ -24,7 +24,7 @@
 - 🎓 **Computer Science Undergraduate** (Expected 2026) in Bengaluru, India
 - 💼 **Internship Experience**: Operational & business data analysis at Bharat Heavy Electricals Limited
 - 🚀 **Open to**: Entry-level roles in Data Analytics, Business Analysis, and Software Development
-- 🎯 **Focus Areas**: Full-stack web development, Data-driven decision making, DSA & problem-solving
+- 🎯 **Focus Areas**: Full-stack web development, data-driven decision-making, DSA & problem-solving
 - 📊 **Projects**: Sales funnels, conversion rates, inventory analysis, revenue & marketing metrics dashboards
 
 ---
@@ -83,9 +83,6 @@ Analyzed D2C retail data including sales funnels, conversion rates, inventory tu
 
 ### React & Chromium Extensions
 Built browser extensions and React-based web applications for workflow digitization and productivity enhancement.
-
-### Data Structures & Algorithms
-Implementing core DSA concepts in Java through structured coursework and LeetCode practice.
 
 ---
 
