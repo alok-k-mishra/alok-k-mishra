@@ -9,7 +9,7 @@
   <a href="https://github.com/alok-k-mishra">
     <img src="https://img.shields.io/badge/GitHub-alok--k--mishra-blue?style=flat&logo=github&logoColor=white" alt="GitHub Profile">
   </a>
-  <a href="https://linkedin.com/in/alok-kumar-mishra-aaa5ba218">
+  <a href="https://linkedin.com/in/alok-k-mishra">
     <img src="https://img.shields.io/badge/LinkedIn-Alok%20Kumar%20Mishra-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://alok-k-mishra.github.io">
